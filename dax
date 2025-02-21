@@ -1,0 +1,1 @@
+barva sloupce = IF(SUM(data[srazky]) > [Hodnota parametru kpi_srazek],"GOLD","TOMATO")
